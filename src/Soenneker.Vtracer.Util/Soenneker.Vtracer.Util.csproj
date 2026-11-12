@@ -46,7 +46,7 @@
 
     <ItemGroup>
         <PackageReference Include="Soenneker.Vtracer.Linux" Version="11.0.3" />
-        <PackageReference Include="Soenneker.Vtracer.Windows" Version="11.0.0" />
+        <PackageReference Include="Soenneker.Vtracer.Windows" Version="11.0.5" />
         <PackageReference Include="Soenneker.Utils.File" Version="11.0.2342" />
         <PackageReference Include="Soenneker.Utils.Process" Version="11.0.1615" />
         <PackageReference Include="Soenneker.Utils.Paths.Resources" Version="11.0.318" />
