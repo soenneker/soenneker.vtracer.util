@@ -47,9 +47,9 @@
     <ItemGroup>
         <PackageReference Include="Soenneker.Vtracer.Linux" Version="11.0.3" />
         <PackageReference Include="Soenneker.Vtracer.Windows" Version="11.0.5" />
-        <PackageReference Include="Soenneker.Utils.File" Version="11.0.2345" />
-        <PackageReference Include="Soenneker.Utils.Process" Version="11.0.1618" />
-        <PackageReference Include="Soenneker.Utils.Paths.Resources" Version="11.0.321" />
+        <PackageReference Include="Soenneker.Utils.File" Version="11.0.2346" />
+        <PackageReference Include="Soenneker.Utils.Process" Version="11.0.1619" />
+        <PackageReference Include="Soenneker.Utils.Paths.Resources" Version="11.0.323" />
         <PackageReference Include="Soenneker.Utils.PooledStringBuilders" Version="11.0.46" />
     </ItemGroup>
 </Project>
